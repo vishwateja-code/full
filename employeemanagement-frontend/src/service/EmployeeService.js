@@ -1,7 +1,8 @@
 import axios from "axios";
 
 //const BASE_URL = process.env.REACT_APP_BACKEND_URL
-const BASE_URL = "http://www.vishwateja.co.in:8080/employee";
+const BASE_URL = "http://a182bc1fb47db41b78ab2b0079735aee-1112603073.us-east-1.elb.amazonaws.com/employee";
+
 // const BASE_URL = process.env.REACT_APP_BASE_URL ; // Fallback URL
 class EmployeeService{
 
